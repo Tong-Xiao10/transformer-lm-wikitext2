@@ -6,7 +6,7 @@ A complete implementation of Transformer-based language model trained on WikiTex
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/transformer-lm-wikitext2.git
+git clone https://github.com/Tong-Xiao10/transformer-lm-wikitext2.git
 cd transformer-lm-wikitext2
 pip install -r requirements.txt
 python main.py
