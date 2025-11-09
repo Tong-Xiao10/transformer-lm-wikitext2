@@ -1,0 +1,41 @@
+{
+  "training_info": {
+    "total_epochs": 3,
+    "final_train_loss": 0.08042987423298055,
+    "final_val_loss": 0.10323351561639595,
+    "final_train_perplexity": 1.0837528449779308,
+    "final_val_perplexity": 1.1087502893557848,
+    "model_parameters": 1365815,
+    "vocabulary_size": 2999,
+    "training_time": "2025-11-09 19:42:15"
+  },
+  "hyperparameters": {
+    "learning_rate": 0.0004415111107797445,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "warmup_steps": 4008,
+    "total_training_steps": 40080
+  },
+  "epoch_results": {
+    "train_losses": [
+      2.5896208067631856,
+      0.08764059386861822,
+      0.08042987423298055
+    ],
+    "val_losses": [
+      0.10864675868792079,
+      0.10030744154540339,
+      0.10323351561639595
+    ],
+    "train_perplexities": [
+      13.324718002161783,
+      1.0915957253208597,
+      1.0837528449779308
+    ],
+    "val_perplexities": [
+      1.1147684984960986,
+      1.1055107457665343,
+      1.1087502893557848
+    ]
+  }
+}

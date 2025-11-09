@@ -1,0 +1,15 @@
+WikiText-2 Transformer Training Results
+==================================================
+Training Time: 2025-11-09 19:28:31
+Model Parameters: 5,724,039
+Vocabulary Size: 4999
+
+Epoch-wise Results:
+Epoch	Training Loss	Validation Loss	Training Perplexity	Validation Perplexity
+1	1.4941	0.1652	4.46	1.18
+2	0.1200	0.1040	1.13	1.11
+3	0.0832	0.1059	1.09	1.11
+
+Final Test Set Results:
+Test Loss: 0.1096
+Test Perplexity: 1.12
